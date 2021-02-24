@@ -1,0 +1,11 @@
+body{background-color:#D7FFEB;}
+#div{position:fixed; top:20%; left:40%; width:20%; height:30%; background-color:black; color:white; font-style:bold;}
+#div input{color:black;}
+/*#div table{margin:20px;}*/
+td{padding:3px;}
+a:hover{color:yellow;}
+
+#regjistrim_anetar{position:fixed; top:10%; left:30%; width:40%; height:70%; background-color:black; color:white; font-style:bold;}
+#regjistrim_anetar input{color:black;}
+#regjistrim_anetar table{margin:30px;}
+#regjistrim_anetar input[type="submit"]{margin:30px;}

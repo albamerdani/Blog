@@ -1,0 +1,35 @@
+body {background-color:#D7FFEB; color:navy; font-family:times new roman; margin: auto;}
+
+#header { margin:10px 0 0 0; min-width:960px; max-width:100%; height:200px; 
+background-color:blue; background:linear-gradient(top, #00FFFF, #000080); background:-moz-linear-gradient(top, #00FFFF, #000080); background:-webkit-linear-gradient(top, #00FFFF, #000080);
+background:-o-linear-gradient(top, #00FFFF, #000080); background:-ms-linear-gradient(top, #00FFFF, #000080);
+padding:0; color:navy;}
+
+h1 {position:relative; align:center; top:30%; font-size:300%; color:navy; margin:10px 10px 10px 20px; text-shadow: 3px 3px 3px #888; 
+transform:perspective(200px) rotateX(10deg) rotateY(20deg) rotateZ(5deg); width: 487px;}
+
+h3 {color:navy; text-align:center;}
+
+table{border:2px green solid; font-family:times new roman; font-size:12pt;}
+td{border:2px navy solid; padding:2px 0 1px 4px; text-align:left;}
+
+a:hover {color:yellow;}
+#username, #password{color:black;}
+
+#log_in{position:relative; left:60%; top:45%;}
+
+#register{position:relative; left:60%; top:45%;}
+#reset_pass{position:relative; left:60%; top:45%;}
+#logout{background-color:white; font-style:bold; text-align:center; border-radius:20%; box-shadow:3px 3px 3px #888; position:relative; top: 45%; left:40%}
+#reset_passwordModal{postion:relative; left:0%;}
+
+p.error{color:red; font-size:105%; font-weight:bold;}
+.label{float:left; width:210px; text-align:right; clear:left; margin-right:5px;}
+
+#submit{margin-left:215px;}
+#search{background-color:#00FFFF; text-color:navy; font-style:bolder; text-align:center; border-radius:20%; box-shadow:3px 3px 3px #888}
+
+#footer{width:100%; height:60px; bottom:5px; right:0px; left:0px; background-color:blue; 
+background:linear-gradient(bottom, #00FFFF, #000080); background:-moz-linear-gradient(bottom, #00FFFF, #000080); 
+background:-webkit-linear-gradient(bottom, #00FFFF, #000080); background:-o-linear-gradient(bottom, #00FFFF, #000080); background:-ms-linear-gradient(bottom, #00FFFF, #000080);}
+
